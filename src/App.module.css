@@ -1,0 +1,46 @@
+.invitation1,
+.yeLo {
+  position: relative;
+}
+.invitation1 {
+  font-size: var(--font-size-61xl);
+}
+.yeLoParent {
+  position: absolute;
+  top: 80px;
+  left: calc(50% - 163px);
+  height: 307px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  text-align: left;
+}
+.swatantraVeerSavarkar {
+  margin: 0;
+}
+.swatantraVeerSavarkarContainer {
+  position: absolute;
+  top: 487px;
+  left: calc(50% - 205px);
+  font-size: 35px;
+  color: #001219;
+}
+.dekhne {
+  position: absolute;
+  bottom: 164px;
+  left: calc(50% - 163px);
+  font-size: var(--font-size-61xl);
+  color: #005f73;
+}
+.invitation {
+  width: 100%;
+  position: relative;
+  background-color: #e9d8a6;
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkcyan);
+  font-family: var(--font-inter);
+}
